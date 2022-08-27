@@ -39,3 +39,8 @@ Form the interface that you'll see in your browser you can open the three includ
  
 
 If you reached this part of the README with no issues then you're ready for the session and for the assignment!
+
+
+# Felix's idea for future work
+ 1) Real time processing. 
+ 2) Different methods of generating sound for mosaicking: Searching for samples based on timbre similarity; Pitch shifting and time streching of the same sample (timbre transfer)
